@@ -1,0 +1,386 @@
+ASSESSMENT_UNIT_ID,PARAM_NAME,PARAM_USE_NAME,PARAM_STATUS_NAME,PARAM_ATTAINMENT_CODE,PARAM_TREND,PARAM_COMMENT,PARAM_AGENCY_CODE,PARAM_POLLUTANT_INDICATOR,PARAM_YEAR_LISTED,PARAM_TARGET_TMDL_DATE,PARAM_EXPECTED_TO_ATTAIN,PARAM_PRIORITY_RANKING,PARAM_CONSENT_DECREE_CYCLE,PARAM_ALT_LISTING_ID,PARAM_STATE_IR_CAT,PARAM_ORG_QUALIFIER_FLAG,PARAM_DELISTING_REASON,PARAM_DELISTING_COMMENT,PARAM_DELISTING_AGENCY
+IL_AE,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_AE,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_AEA,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_AEA,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NumericStandard,,,
+IL_AH,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_AJD-15,FISH PASSAGE BARRIER,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_AJF-02,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_AJF-02,LOSS OF INSTREAM COVER,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_AJF-02,SEDIMENTATION/SILTATION,Aquatic Life,Cause,Not meeting threshold,,,S,Y,2008,,,Medium,,,,NumricGuideline,,,
+IL_AJF-02,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Low,,,,NumericStandard,,,
+IL_AJF-02,MANGANESE,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2008,,,Low,,,,NumericStandard,,,
+IL_AJF-16,PH,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_AJF-16,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2024,,,Medium,,,,NumericStandard,,,
+IL_AJFA-21,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,,,,
+IL_AJFA-21,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,,,,
+IL_AJFA-21,FLOW REGIME MODIFICATION,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_AJFA-21,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting threshold,,,S,Y,2018,,,Medium,,,,,,,
+IL_AJG-18,PH,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_AJG-18,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_AK-02,MERCURY,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2008,,,Medium,,,,FshAdvGuideline,,,
+IL_AK-04,MERCURY,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2018,,,Medium,,,,FshAdvGuideline,,,
+IL_AK-07,MERCURY,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2018,,,Medium,,,,FshAdvGuideline,,,
+IL_AL-01,MERCURY,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2018,,,Medium,,,,FshAdvGuideline,,,
+IL_AO-02,MERCURY,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2018,,,Medium,,,,FshAdvGuideline,,,
+IL_AO-03,MERCURY,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2018,,,Medium,,,,FshAdvGuideline,,,
+IL_AP,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,,,,
+IL_AP,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,,,,
+IL_AP,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting threshold,,,S,Y,2018,,,Medium,,,,,,,
+IL_AQ,CAUSE UNKNOWN,Aquatic Life,Cause,Not meeting threshold,,,S,Y,2018,,,Medium,,,,,,,
+IL_AR,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting threshold,,,S,Y,2018,,,Medium,,,,,,,
+IL_AT-05,MERCURY,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2018,,,Medium,,,,FshAdvGuideline,,,
+IL_AT-05,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_AT-05,CAUSE UNKNOWN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2024,,,Medium,,,,NumericStandard,,,
+IL_AT-05,BOTTOM DEPOSITS,Aesthetic Quality,Meeting Criteria,Meeting criteria,,,,Y,,,,,,,,NarrtivStandard,,,
+IL_AT-05,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_AT-05,ODOR,Aesthetic Quality,Meeting Criteria,Meeting criteria,,,,N,,,,,,,,NarrtivStandard,,,
+IL_AT-05,SEDIMENTATION/SILTATION,Aquatic Life,Observed effect,Not meeting threshold,,,,,,,,,,,,,,,
+IL_AT-05,LOSS OF INSTREAM COVER,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_AT-06,FECAL COLIFORM,Primary Contact,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_AT-06,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2022,,,Medium,,,,NumericStandard,,,
+IL_AT-06,MERCURY,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2010,,,Medium,,,,FshAdvGuideline,,,
+IL_AT-06,IRON,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_AT-07,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,Meeting criteria,,,,Y,,,,,,,,NumericStandard,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_AT-07,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_AT-07,MERCURY,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2010,,,Medium,,,,FshAdvGuideline,,,
+IL_AT-07,"PHOSPHORUS, TOTAL",Aquatic Life,Cause,Not meeting threshold,,,S,Y,1998,,,Medium,,,,NumricGuideline,,,
+IL_AT-07,SEDIMENTATION/SILTATION,Aquatic Life,Cause,Not meeting threshold,,,S,Y,1998,,,Medium,,,,NumricGuideline,,,
+IL_AT-07,TOTAL SUSPENDED SOLIDS (TSS),Aquatic Life,Cause,Not meeting threshold,,,S,Y,1998,,,Medium,,,,NumricGuideline,,,
+IL_ATB,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NumericStandard,,,
+IL_ATBA,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATBA,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Cause,Not meeting threshold,,,S,N,2024,,,,,,,ObservGuideline,,,
+IL_ATBA,COPPER,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NumericStandard,,,
+IL_ATE-03,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2006,,,Medium,,,,NumericStandard,,,
+IL_ATE-03,MANGANESE,Aquatic Life,Cause,Not meeting criteria,,,S,Y,1994,,,Medium,,,,NumericStandard,,,
+IL_ATE-03,SULFATE,Aquatic Life,Cause,Not meeting criteria,,,S,Y,1994,,,Medium,,,,NumericStandard,,,
+IL_ATE-04,LOSS OF INSTREAM COVER,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,,,,
+IL_ATE-04,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,,,,
+IL_ATE-05,SULFATE,Aquatic Life,Cause,Not meeting criteria,,,S,Y,1994,,,Medium,,,,NumericStandard,,,
+IL_ATE-05,AQUATIC PLANTS (MACROPHYTES),Aesthetic Quality,Cause,Not meeting criteria,,,S,N,2024,,,,,,,NarrtivStandard,,,
+IL_ATE-05,MANGANESE,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATE-05,ALGAE,Aesthetic Quality,Cause,Not meeting criteria,,,S,N,2024,,,,,,,NarrtivStandard,,,
+IL_ATE-05,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATEE-08,SULFATE,Aquatic Life,Cause,Not meeting criteria,,,S,Y,1994,,,Medium,,,,NumericStandard,,,
+IL_ATEE-08,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2006,,,Medium,,,,NumericStandard,,,
+IL_ATF-04,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,,,,
+IL_ATF-04,MERCURY,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2008,,,Medium,,,,FshAdvGuideline,,,
+IL_ATF-04,LOSS OF INSTREAM COVER,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,ObservGuideline,,,
+IL_ATF-04,FECAL COLIFORM,Primary Contact,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_ATF-04,ZINC,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATF-04,PH,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2022,,,Medium,,,,NumericStandard,,,
+IL_ATF-04,HABITAT ALTERATIONS,Aquatic Life,Cause,Not meeting threshold,,,S,N,2020,,,,,,,ObservGuideline,,,
+IL_ATF-04,IRON,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATF-04,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATF-05,ALGAE,Aesthetic Quality,Cause,Not meeting criteria,,,S,N,2024,,,,,,,NarrtivStandard,,,
+IL_ATF-05,CHLORIDE,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATF-05,TEMPERATURE,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATF-05,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATF-05,LOSS OF INSTREAM COVER,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATF-05,FLOW REGIME MODIFICATION,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATF-05,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATF-05,CAUSE UNKNOWN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2024,,,Medium,,,,NumericStandard,,,
+IL_ATF-05,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATF-05,HABITAT ALTERATIONS,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATF-06,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATF-06,LOSS OF INSTREAM COVER,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATF-06,NON-NATIVE FISH/SHELLFISH/ZOOPLANKTON,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATF-06,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATF-06,MERCURY,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2018,,,Medium,,,,FshAdvGuideline,,,
+IL_ATF-06,HABITAT ALTERATIONS,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATF-06,CAUSE UNKNOWN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2024,,,Medium,,,,NumericStandard,,,
+IL_ATF-07,CHLORIDE,Aquatic Life,Cause,Not meeting criteria,,,S,Y,1998,,,Medium,,,,NumericStandard,,,
+IL_ATF-07,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFA-01,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFA-01,"PHOSPHORUS, TOTAL",Aquatic Life,Cause,Not meeting threshold,,,S,Y,2008,,,Medium,,,,NumricGuideline,,,
+IL_ATFA-01,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFA-01,LOSS OF INSTREAM COVER,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFD-01,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFD-01,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NumericStandard,,,
+IL_ATFD-01,BOTTOM DEPOSITS,Aesthetic Quality,Cause,Not meeting criteria,,,S,Y,2014,,,Medium,,,,NarrtivStandard,,,
+IL_ATFD-01,LOSS OF INSTREAM COVER,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFE-01,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFE-01,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFE-01,LOSS OF INSTREAM COVER,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFE-01,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NumericStandard,,,
+IL_ATFE-01,ALGAE,Aquatic Life,Cause,Not meeting criteria,,,S,N,,,,,,,,NarrtivStandard,,,
+IL_ATFEA-01,LOSS OF INSTREAM COVER,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFEA-01,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFEA-01,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFEA-01,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NumericStandard,,,
+IL_ATFF-02,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATFF-02,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATFF-02,LOSS OF INSTREAM COVER,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATFF-02,CAUSE UNKNOWN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2024,,,Medium,,,,NumericStandard,,,
+IL_ATFFA,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFFA,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFFA,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NumericStandard,,,
+IL_ATFFA,LOSS OF INSTREAM COVER,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFFAA,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NumericStandard,,,
+IL_ATFFAA,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFFAA,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFFAA,LOSS OF INSTREAM COVER,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFH-01,LOSS OF INSTREAM COVER,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATFH-01,CAUSE UNKNOWN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2024,,,Medium,,,,NumericStandard,,,
+IL_ATFH-01,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATFH-01,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATFIA-MC-A2,FLOW REGIME MODIFICATION,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFIA-MC-A2,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFIA-MC-A2,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFIA-MC-C1,FLOW REGIME MODIFICATION,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFIA-MC-C1,"PHOSPHORUS, TOTAL",Aquatic Life,Cause,Not meeting threshold,,,S,Y,2006,,,Medium,,,,NumricGuideline,,,
+IL_ATFIA-MC-C1,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFI-MC-C4,CAUSE UNKNOWN,Aquatic Life,Cause,Not meeting threshold,,,S,Y,2006,,,Medium,,,,,,,
+IL_ATFI-MC-C4,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFI-MC-D1,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,Meeting criteria,,,,Y,,,,,,,,NumericStandard,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_ATFI-MC-D1,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_ATFI-MC-D1,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_ATFI-MC-D1,FLOW REGIME MODIFICATION,Aquatic Life,Cause,Not meeting threshold,,,S,N,2020,,,,,,,ObservGuideline,,,
+IL_ATFI-MC-D1,LOSS OF INSTREAM COVER,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_ATFI-MC-D1,HABITAT ALTERATIONS,Aquatic Life,Cause,Not meeting threshold,,,S,N,2020,,,,,,,ObservGuideline,,,
+IL_ATFJ-01,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,,,,
+IL_ATFJ-01,FLOW REGIME MODIFICATION,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFJ-01,LOSS OF INSTREAM COVER,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFJ-01,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFJ-01,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting threshold,,,S,Y,2018,,,Medium,,,,,,,
+IL_ATFJ-02,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFJ-02,LOSS OF INSTREAM COVER,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFJ-02,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATFJC-01,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NumericStandard,,,
+IL_ATG-03,NICKEL,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2024,,,Medium,,,,NumericStandard,,,
+IL_ATG-03,LOSS OF INSTREAM COVER,Aquatic Life,Cause,Not meeting threshold,,,S,N,2024,,,,,,,ObservGuideline,,,
+IL_ATG-03,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATG-03,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATG-03,FLOW REGIME MODIFICATION,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATG-03,ZINC,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATG-03,HABITAT ALTERATIONS,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATGC-01,SULFATE,Aquatic Life,Cause,Not meeting criteria,,,S,Y,1998,,,Low,,,,NumericStandard,,,
+IL_ATGC-01,MANGANESE,Aquatic Life,Cause,Not meeting criteria,,,S,Y,1998,,,Low,,,,NumericStandard,,,
+IL_ATGC-01,FECAL COLIFORM,Primary Contact,Cause,Not meeting criteria,,,S,Y,2006,,,Low,,,,NumericStandard,,,
+IL_ATGC-01,SILVER,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2008,,,Low,,,,NumericStandard,,,
+IL_ATGC-02,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATGC-11,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,Meeting threshold,,,,Y,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_ATGC-11,CAUSE UNKNOWN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2020,,,Medium,,,,NumericStandard,,,
+IL_ATGH-04,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,ObservGuideline,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_ATGH-04,FLOW REGIME MODIFICATION,Aquatic Life,Cause,Not meeting threshold,,,S,N,2020,,,,,,,ObservGuideline,,,
+IL_ATGH-04,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_ATGH-04,HABITAT ALTERATIONS,Aquatic Life,Cause,Not meeting threshold,,,S,N,2020,,,,,,,ObservGuideline,,,
+IL_ATGH-04,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,Meeting threshold,,,,Y,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_ATGH-09,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATGH-10,CAUSE UNKNOWN,Aquatic Life,Cause,Not meeting threshold,,,S,Y,2018,,,Medium,,,,,,,
+IL_ATGH-10,PH,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2020,,,Medium,,,,NumericStandard,,,
+IL_ATGM-01,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NumericStandard,,,
+IL_ATH-02,SEDIMENTATION/SILTATION,Aquatic Life,Observed effect,Not meeting threshold,,,,,,,,,,,,,,,
+IL_ATH-02,FECAL COLIFORM,Primary Contact,Cause,Not meeting criteria,,,S,Y,1992,,,Low,,,,NumericStandard,,,
+IL_ATH-02,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATH-02,CADMIUM,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2008,,,Medium,,,,NumericStandard,,,
+IL_ATH-02,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,N,,,,,,,,NumericStandard,,,
+IL_ATH-05,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATH-05,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,ObservGuideline,,,
+IL_ATH-05,DEBRIS/FLOATABLES/TRASH,Aesthetic Quality,Meeting Criteria,Meeting threshold,,,,Y,,,,,,,,,,,
+IL_ATH-05,LOSS OF INSTREAM COVER,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,ObservGuideline,,,
+IL_ATH-05,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,ObservGuideline,,,
+IL_ATH-05,NICKEL,Aquatic Life,Meeting Criteria,Meeting criteria,,,,Y,,,,,,,,NumericStandard,,,
+IL_ATH-05,PH,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATH-05,IRON,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATH-05,HABITAT ALTERATIONS,Aquatic Life,Cause,Not meeting threshold,,,S,N,2020,,,,,,,ObservGuideline,,,
+IL_ATH-05,CADMIUM,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATH-05,FECAL COLIFORM,Primary Contact,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_ATH-05,ZINC,Aquatic Life,Meeting Criteria,Meeting criteria,,,,Y,,,,,,,,NumericStandard,,,
+IL_ATH-13,NICKEL,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2020,,,Medium,,,,NumericStandard,,,
+IL_ATH-13,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATH-13,PH,Aquatic Life,Meeting Criteria,Meeting criteria,,,,Y,,,,,,,,NumericStandard,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_ATH-14,CAUSE UNKNOWN,Aquatic Life,Cause,Not meeting threshold,,,S,Y,2008,,,Medium,,,,,,,
+IL_ATHC-01,LOSS OF INSTREAM COVER,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATHC-01,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATHC-01,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATHC-01,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NumericStandard,,,
+IL_ATHD-03,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NumericStandard,,,
+IL_ATHD-03,HABITAT ALTERATIONS,Aquatic Life,Cause,Not meeting threshold,,,S,N,2024,,,,,,,ObservGuideline,,,
+IL_ATHE,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NumericStandard,,,
+IL_ATHG-01,CADMIUM,Aquatic Life,Meeting Criteria,Meeting criteria,,,,Y,,,,,,,,NumericStandard,,,
+IL_ATHG-01,CYANIDE,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATHG-01,COLOR,Aesthetic Quality,Cause,Not meeting threshold,,,S,N,,,,,,,,,,,
+IL_ATHG-01,PH,Aquatic Life,Meeting Criteria,Meeting criteria,,,,Y,,,,,,,,NumericStandard,,,
+IL_ATHG-01,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATHG-01,IRON,Aquatic Life,Meeting Criteria,Meeting criteria,,,,Y,,,,,,,,NumericStandard,,,
+IL_ATHG-01,NICKEL,Aquatic Life,Meeting Criteria,Meeting criteria,,,,Y,,,,,,,,NumericStandard,,,
+IL_ATHG-01,ZINC,Aquatic Life,Meeting Criteria,Meeting criteria,,,,Y,,,,,,,,NumericStandard,,,
+IL_ATHG-01,MANGANESE,Aquatic Life,Meeting Criteria,Meeting criteria,,,,,,,,,,,,,,,
+IL_ATHG-01,TOTAL SUSPENDED SOLIDS (TSS),Aquatic Life,Cause,Not meeting threshold,,,S,Y,1992,,,,,,,NumricGuideline,,,
+IL_ATHG-01,BOTTOM DEPOSITS,Aesthetic Quality,Cause,Not meeting threshold,,,S,Y,2018,,,Medium,,,,,,,
+IL_ATHG-01,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATHG-01,"PHOSPHORUS, TOTAL",Aquatic Life,Cause,Not meeting threshold,,,S,Y,1992,,,,,,,NumricGuideline,,,
+IL_ATHG-02,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NumericStandard,,,
+IL_ATHG-05,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2024,,,Medium,,,,NumericStandard,,,
+IL_ATHG-05,MANGANESE,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2024,,,Medium,,,,NumericStandard,,,
+IL_ATHG-05,FECAL COLIFORM,Primary Contact,Cause,Not meeting criteria,,,S,Y,2006,,,Low,,,,NumericStandard,,,
+IL_ATHJ-01,ALGAE,Aesthetic Quality,Cause,Not meeting criteria,,,S,N,,,,,,,,NarrtivStandard,,,
+IL_ATHJ-01,CAUSE UNKNOWN,Aquatic Life,Cause,Not meeting threshold,,,S,Y,2012,,,Medium,,,,,,,
+IL_ATHJ-01,"PHOSPHORUS, TOTAL",Aesthetic Quality,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NarrtivStandard,,,
+IL_ATHJ-LE-C1A,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_ATHJ-LE-C1A,CAUSE UNKNOWN,Aquatic Life,Cause,Not meeting threshold,,,S,Y,2012,,,Medium,,,,,,,
+IL_ATHS-01,IRON,Aquatic Life,Cause,Not meeting criteria,,,S,Y,1998,,,Low,,,,NumericStandard,,,
+IL_ATHS-01,TOTAL SUSPENDED SOLIDS (TSS),Aquatic Life,Cause,Not meeting threshold,,,S,Y,2010,,,Medium,,,,NumricGuideline,,,
+IL_ATHS-01,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,N,,,,,,,,NumericStandard,,,
+IL_ATHS-01,MANGANESE,Aquatic Life,Cause,Not meeting criteria,,,S,Y,1998,,,Low,,,,NumericStandard,,,
+IL_ATHS-01,SULFATE,Aquatic Life,Cause,Not meeting criteria,,,S,Y,1996,,,Low,,,,NumericStandard,,,
+IL_ATHT-01,PH,Aquatic Life,Cause,Not meeting criteria,,,S,Y,1994,,,Medium,,,,NumericStandard,,,
+IL_ATHT-01,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2006,,,Medium,,,,NumericStandard,,,
+IL_ATHT-01,SULFATE,Aquatic Life,Cause,Not meeting criteria,,,S,Y,1994,,,Medium,,,,NumericStandard,,,
+IL_ATHU-01,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,Meeting threshold,,,,Y,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_ATHU-01,PH,Aquatic Life,Cause,Not meeting criteria,,,S,Y,1998,,,Medium,,,,NumericStandard,,,
+IL_ATHU-01,IRON,Aquatic Life,Cause,Not meeting criteria,,,S,Y,1998,,,Medium,,,,,,,
+IL_ATHU-01,ZINC,Aquatic Life,Meeting Criteria,Meeting criteria,,,,Y,,,,,,,,NumericStandard,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_ATHV-01,MANGANESE,Aquatic Life,Cause,Not meeting criteria,,,S,Y,1998,,,Low,,,,NumericStandard,,,
+IL_ATHV-01,PH,Aquatic Life,Cause,Not meeting criteria,,,S,Y,1998,,,Low,,,,NumericStandard,,,
+IL_ATHV-01,IRON,Aquatic Life,Cause,Not meeting criteria,,,S,Y,1998,,,Low,,,,NumericStandard,,,
+IL_ATHV-01,COPPER,Aquatic Life,Cause,Not meeting criteria,,,S,Y,1998,,,Low,,,,NumericStandard,,,
+IL_ATZM-02,CAUSE UNKNOWN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2024,,,Medium,,,,NumericStandard,,,
+IL_ATZM-02,LOSS OF INSTREAM COVER,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATZM-02,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_ATZM-02,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_AZC,MANGANESE,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2024,,,Medium,,,,NumericStandard,,,
+IL_AZC,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2024,,,Medium,,,,NumericStandard,,,
+IL_JD-02,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_JHE-C1,SEDIMENTATION/SILTATION,Aquatic Life,Cause,Not meeting threshold,,,S,Y,2002,,,Medium,,,,NumricGuideline,,,
+IL_JHE-C1,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2006,,,Medium,,,,NumericStandard,,,
+IL_JHE-C1,"PHOSPHORUS, TOTAL",Aquatic Life,Cause,Not meeting threshold,,,S,Y,2002,,,Medium,,,,NumricGuideline,,,
+IL_JMA-01,"PHOSPHORUS, TOTAL",Aquatic Life,Cause,Not meeting threshold,,,S,Y,2008,,,Medium,,,,NumricGuideline,,,
+IL_JMA-01,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_JMA-01,LOSS OF INSTREAM COVER,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_JMA-01,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_JMA-01,CAUSE UNKNOWN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2020,,,Medium,,,,NumericStandard,,,
+IL_JMAA-01,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_JMAA-01,CAUSE UNKNOWN,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_JMAABA-C1,NITROGEN,Aquatic Life,Observed effect,Not meeting threshold,,,,,,,,,,,,,,,
+IL_JMAABA-C1,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_JMAABA-C1,"PHOSPHORUS, TOTAL",Aquatic Life,Cause,Not meeting threshold,,,S,Y,2002,,,Medium,,,,NumricGuideline,,,
+IL_JMAC-02,LOSS OF INSTREAM COVER,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,,,,
+IL_JMAC-02,FECAL COLIFORM,Primary Contact,Cause,Not meeting criteria,,,S,Y,1994,,,Low,,,,NumericStandard,,,
+IL_JMAC-02,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,ObservGuideline,,,
+IL_JMAC-02,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,,,,
+IL_JMAC-02,FLOW REGIME MODIFICATION,Aquatic Life,Cause,Not meeting threshold,,,S,N,2020,,,,,,,ObservGuideline,,,
+IL_JMAC-02,"PHOSPHORUS, TOTAL",Aquatic Life,Meeting Criteria,Meeting threshold,,,,Y,,,,,,,,,,,
+IL_JMAC-02,TOTAL SUSPENDED SOLIDS (TSS),Aquatic Life,Meeting Criteria,Meeting criteria,,,,Y,,,,,,,,,,,
+IL_JMAC-02,CAUSE UNKNOWN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2024,,,Medium,,,,NumericStandard,,,
+IL_JMAC-02,HABITAT ALTERATIONS,Aquatic Life,Cause,Not meeting threshold,,,S,N,2020,,,,,,,ObservGuideline,,,
+IL_JMAC-02,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_JN-02,FECAL COLIFORM,Primary Contact,Cause,Not meeting criteria,,,S,Y,2022,,,Medium,,,,NumericStandard,,,
+IL_JN-02,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_JN-02,"PHOSPHORUS, TOTAL",Aquatic Life,Cause,Not meeting threshold,,,S,Y,1994,,,Medium,,,,NumricGuideline,,,
+IL_JN-02,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_JN-02,TOTAL SUSPENDED SOLIDS (TSS),Aquatic Life,Cause,Not meeting threshold,,,S,Y,2008,,,Medium,,,,NumricGuideline,,,
+IL_JN-02,SEDIMENTATION/SILTATION,Aquatic Life,Cause,Not meeting threshold,,,S,Y,1994,,,Medium,,,,NumricGuideline,,,
+IL_JN-02,CAUSE UNKNOWN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2020,,,Medium,,,,NumericStandard,,,
+IL_JN-02,LOSS OF INSTREAM COVER,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_JN-02,HABITAT ALTERATIONS,Aquatic Life,Cause,Not meeting threshold,,,S,N,2024,,,,,,,ObservGuideline,,,
+IL_JN-02,IRON,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_JNA-01,MANGANESE,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_JNA-01,HABITAT ALTERATIONS,Aquatic Life,Cause,Not meeting threshold,,,S,N,2024,,,,,,,ObservGuideline,,,
+IL_JNA-01,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_JNA-01,NITROGEN,Aquatic Life,Observed effect,Not meeting threshold,,,,,,,,,,,,,,,
+IL_JNA-01,LOSS OF INSTREAM COVER,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_JNA-01,"PHOSPHORUS, TOTAL",Aquatic Life,Cause,Not meeting threshold,,,S,Y,1998,,,Low,,,,NumricGuideline,,,
+IL_JNA-01,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_JNA-01,BARIUM,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_JNA-01,TOTAL SUSPENDED SOLIDS (TSS),Aquatic Life,Cause,Not meeting threshold,,,S,Y,1998,,,Low,,,,NumricGuideline,,,
+IL_JNA-02,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_JNA-02,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_JNA-02,BARIUM,Aquatic Life,Cause,Not meeting threshold,,,S,Y,2008,,,Medium,,,,NumricGuideline,,,
+IL_JNG,LOSS OF INSTREAM COVER,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_JNG,COLOR,Aesthetic Quality,Cause,Not meeting criteria,,,S,N,,,,,,,,NarrtivStandard,,,
+IL_JNG,ALGAE,Aesthetic Quality,Cause,Not meeting criteria,,,S,N,,,,,,,,NarrtivStandard,,,
+IL_JNG,TURBIDITY,Aesthetic Quality,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NarrtivStandard,,,
+IL_JNG,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NumericStandard,,,
+IL_JNG,"PHOSPHORUS, TOTAL",Aesthetic Quality,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NarrtivStandard,,,
+IL_JNG,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_JNG,BOTTOM DEPOSITS,Aesthetic Quality,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NarrtivStandard,,,
+IL_JNG,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_JNG,AQUATIC PLANTS (MACROPHYTES),Aesthetic Quality,Cause,Not meeting criteria,,,S,N,,,,,,,,NarrtivStandard,,,
+IL_JNG,"AMMONIA, TOTAL",Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NumericStandard,,,
+IL_JNG,ODOR,Aesthetic Quality,Cause,Not meeting criteria,,,S,N,,,,,,,,NarrtivStandard,,,
+IL_JNG,SLUDGE,Aesthetic Quality,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NarrtivStandard,,,
+IL_JNG,MANGANESE,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NumericStandard,,,
+IL_JNGA-PF-A1,TURBIDITY,Aesthetic Quality,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NarrtivStandard,,,
+IL_JNGA-PF-A1,COLOR,Aesthetic Quality,Cause,Not meeting criteria,,,S,N,,,,,,,,NarrtivStandard,,,
+IL_JNGA-PF-A1,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NumericStandard,,,
+IL_JNGA-PF-A1,ALGAE,Aesthetic Quality,Cause,Not meeting criteria,,,S,N,,,,,,,,NarrtivStandard,,,
+IL_JNGA-PF-A1,BOTTOM DEPOSITS,Aesthetic Quality,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NarrtivStandard,,,
+IL_JNGA-PF-A1,LOSS OF INSTREAM COVER,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_JNGA-PF-A1,"PHOSPHORUS, TOTAL",Aesthetic Quality,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NarrtivStandard,,,
+IL_JNGA-PF-A1,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_JNGA-PF-A1,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_JNGA-PF-D1,TURBIDITY,Aesthetic Quality,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NarrtivStandard,,,
+IL_JNGA-PF-D1,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_JNGA-PF-D1,COLOR,Aesthetic Quality,Cause,Not meeting criteria,,,S,N,,,,,,,,NarrtivStandard,,,
+IL_JNGA-PF-D1,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_JNGA-PF-D1,BOTTOM DEPOSITS,Aesthetic Quality,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NarrtivStandard,,,
+IL_JNGA-PF-D1,LOSS OF INSTREAM COVER,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_JNGA-PF-D1,ALGAE,Aesthetic Quality,Cause,Not meeting criteria,,,S,N,,,,,,,,NarrtivStandard,,,
+IL_JNGA-PF-D1,"PHOSPHORUS, TOTAL",Aesthetic Quality,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NarrtivStandard,,,
+IL_JNGA-PF-D1,ODOR,Aesthetic Quality,Cause,Not meeting criteria,,,S,N,,,,,,,,NarrtivStandard,,,
+IL_JNG-PF-A3,MANGANESE,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NumericStandard,,,
+IL_JNG-PF-A3,DISSOLVED OXYGEN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2012,,,Medium,,,,NumericStandard,,,
+IL_JO,POLYCHLORINATED BIPHENYLS (PCBS),Fish Consumption,Cause,Not meeting threshold,,,S,Y,2002,,,Medium,,,,FshAdvGuideline,,,
+IL_JQ-03,MIREX,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2022,,,Medium,,,,FshAdvGuideline,,,
+IL_JQ-03,ENDRIN,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2022,,,Medium,,,,FshAdvGuideline,,,
+IL_JQ-03,ALDRIN,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2022,,,Medium,,,,FshAdvGuideline,,,
+IL_JQ-03,DIELDRIN,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2022,,,Medium,,,,FshAdvGuideline,,,
+IL_JQ-03,TOXAPHENE,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2022,,,Medium,,,,FshAdvGuideline,,,
+IL_JQ-03,HEPTACHLOR,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2022,,,Medium,,,,FshAdvGuideline,,,
+IL_JQ-04,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_JQ-04,HABITAT ALTERATIONS,Aquatic Life,Cause,Not meeting threshold,,,S,N,2020,,,,,,,ObservGuideline,,,
+IL_JQ-04,LOSS OF INSTREAM COVER,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_JQ-04,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_JQ-05,CAUSE UNKNOWN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2022,,,Medium,,,,NumericStandard,,,
+IL_JQ-05,LOSS OF INSTREAM COVER,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,,,,
+IL_JQ-05,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,,,,
+IL_JQ-05,HABITAT ALTERATIONS,Aquatic Life,Cause,Not meeting threshold,,,S,N,2020,,,,,,,ObservGuideline,,,
+IL_JQ-05,IRON,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_JQ-05,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_JQ-05,FECAL COLIFORM,Primary Contact,Cause,Not meeting criteria,,,S,Y,2024,,,Low,,,,NumericStandard,,,
+IL_JQ-05,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,,,,
+IL_JQ-05,MANGANESE,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_JQ-07,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_JQ-07,CAUSE UNKNOWN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2024,,,Medium,,,,NumericStandard,,,
+IL_JQ-07,"PHOSPHORUS, TOTAL",Aquatic Life,Cause,Not meeting threshold,,,S,Y,2010,,,Medium,,,,NumricGuideline,,,
+IL_JQ-07,ALDRIN,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2022,,,Medium,,,,FshAdvGuideline,,,
+IL_JQ-07,DIELDRIN,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2022,,,Medium,,,,FshAdvGuideline,,,
+IL_JQ-07,HEPTACHLOR,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2022,,,Medium,,,,FshAdvGuideline,,,
+IL_JQ-07,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_JQ-07,LOSS OF INSTREAM COVER,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_JQ-07,MIREX,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2022,,,Medium,,,,FshAdvGuideline,,,
+IL_JQ-07,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2024 cycle,S
+IL_JQ-07,ENDRIN,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2022,,,Medium,,,,FshAdvGuideline,,,
+IL_JQ-07,TOXAPHENE,Fish Consumption,Cause,Not meeting threshold,,,S,Y,2022,,,Medium,,,,FshAdvGuideline,,,
+IL_JQ-07,FISH PASSAGE BARRIER,Aquatic Life,Cause,Not meeting threshold,,,S,N,,,,,,,,ObservGuideline,,,
+IL_JQA-01,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,,,,
+IL_JQA-01,LOSS OF INSTREAM COVER,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,,,,
+IL_JQA-01,HABITAT ALTERATIONS,Aquatic Life,Cause,Not meeting threshold,,,S,N,2020,,,,,,,ObservGuideline,,,
+IL_JQA-01,CAUSE UNKNOWN,Aquatic Life,Cause,Not meeting criteria,,,S,Y,2024,,,Medium,,,,NumericStandard,,,
+IL_JQE,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_JQE,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_JQE,LOSS OF INSTREAM COVER,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_JQE,HABITAT ALTERATIONS,Aquatic Life,Cause,Not meeting threshold,,,S,N,2020,,,,,,,ObservGuideline,,,
+IL_JQO-HS-C1,"PHOSPHORUS, TOTAL",Aquatic Life,Cause,Not meeting threshold,,,S,Y,2010,,,Medium,,,,NumricGuideline,,,
+IL_JQO-HS-C1,ALGAE,Aquatic Life,Cause,Not meeting criteria,,,S,N,,,,,,,,NarrtivStandard,,,
+IL_JR-02,FLOW REGIME MODIFICATION,Aquatic Life,Cause,Not meeting threshold,,,S,N,2020,,,,,,,ObservGuideline,,,
+IL_JR-02,TOTAL SUSPENDED SOLIDS (TSS),Aquatic Life,Meeting Criteria,Meeting threshold,,,,Y,,,,,,,,,,,
+IL_JR-02,LOSS OF INSTREAM COVER,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,ObservGuideline,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_JR-02,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,ObservGuideline,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_JR-02,HABITAT ALTERATIONS,Aquatic Life,Cause,Not meeting threshold,,,S,N,2020,,,,,,,ObservGuideline,,,
+IL_JR-02,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Meeting Criteria,Meeting threshold,,,,N,,,,,,,,ObservGuideline,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_JR-02,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,Meeting threshold,,,,Y,,,,,,,,,WQS_NEW_DATA,No standard violation in new data for 2020 cycle,S
+IL_JR-02,FECAL COLIFORM,Primary Contact,Cause,Not meeting criteria,,,S,Y,2002,,,Medium,,,,NumericStandard,,,
+IL_JRA-02,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_JRA-02,LOSS OF INSTREAM COVER,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_JRA-02,HABITAT ALTERATIONS,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_JRA-02,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_JRB,DISSOLVED OXYGEN,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_JRB,FLOW ALTERATION-CHANGES IN DEPTH AND FLOW VELOCITY,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_JRB,HABITAT ALTERATIONS,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_JRB,LOSS OF INSTREAM COVER,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_JVA,HABITAT ALTERATIONS,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_JVA,ALTERATION IN STREAM-SIDE OR LITTORAL VEGETATIVE COVERS,Aquatic Life,Meeting Criteria,,,,,,,,,,,,,,WQS_NEW_DATA,Segment is Fully Supporting for 2024 cycle,S
+IL_JZGA,HABITAT ALTERATIONS,Aquatic Life,Cause,Not meeting threshold,,,S,N,2024,,,,,,,ObservGuideline,,,
